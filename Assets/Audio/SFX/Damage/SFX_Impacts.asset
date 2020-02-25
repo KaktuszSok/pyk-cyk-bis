@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0ad19ed7df67b46bb79aeb33ab8fb1, type: 3}
+  m_Name: SFX_Impacts
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 3ad271156b79a804186afb0adb5b88b5, type: 3}
+  - {fileID: 8300000, guid: ec3a8c7e071c0dc478f57ecfea4c3391, type: 3}
+  - {fileID: 8300000, guid: 342dc8bedd9a262478138a5178896251, type: 3}
+  - {fileID: 8300000, guid: bac533f3094d8b343a60f5922ca08044, type: 3}
+  - {fileID: 8300000, guid: 5d500eb2b7450234eaa6d1fd123f5dd3, type: 3}
+  - {fileID: 8300000, guid: c271223140d42f74a9cb9ff39c63c6f9, type: 3}
+  - {fileID: 8300000, guid: 45795efadb481524f97ae44a3eb6d5ee, type: 3}
+  - {fileID: 8300000, guid: cc6d7d725583920498d8e0a14fb60239, type: 3}
+  - {fileID: 8300000, guid: 4be06f9ae00b26e448292ad6992411c1, type: 3}
+  - {fileID: 8300000, guid: cb4440fa262fd2340b32cff2cbe861bb, type: 3}
+  - {fileID: 8300000, guid: d5eae79fe7f1d164ab6ba6986c612e80, type: 3}
+  - {fileID: 8300000, guid: 5736474dd9997a04ca74041f36321c7f, type: 3}
+  - {fileID: 8300000, guid: b799d6ba24ae0104799ab9545494cf1a, type: 3}
+  - {fileID: 8300000, guid: c60c3d03ff774bd41bbd5dbf9fd7539a, type: 3}
+  - {fileID: 8300000, guid: 3b66c6da254e30e42a5074bf8bb605af, type: 3}
+  - {fileID: 8300000, guid: 061ef8f79b20f62458b140670c982976, type: 3}
+  - {fileID: 8300000, guid: 9781d1bbf810c614ba98bee27bcdf017, type: 3}
+  - {fileID: 8300000, guid: 5534416d375d8de4499eb0e8da423e00, type: 3}
+  - {fileID: 8300000, guid: 2ae8a8d677f3c9d43a63ce44ebac9fcb, type: 3}
+  - {fileID: 8300000, guid: 60bfad8c17c86fa44b051cba52035cb9, type: 3}
+  - {fileID: 8300000, guid: 0fb4755f7471dd044859376dc5946e6c, type: 3}
+  - {fileID: 8300000, guid: 1f79c063bd79eda4286121158915426f, type: 3}
+  - {fileID: 8300000, guid: e5df62ac9a3f1b146a6160f1fb67f0ef, type: 3}
+  - {fileID: 8300000, guid: 155c050136d00e4409d397c591d43c11, type: 3}
+  - {fileID: 8300000, guid: 04aad6b0381753748948c7910bbd5e39, type: 3}
+  - {fileID: 8300000, guid: ca340750daf7a6b4c848c8640c0a2367, type: 3}
+  - {fileID: 8300000, guid: 715a71af410a4ab4dade480bdbfaa1cb, type: 3}
+  - {fileID: 8300000, guid: f7404827e23ed5c42bcfb82fa6413ac6, type: 3}
+  - {fileID: 8300000, guid: 81b2ea8dcfea3a648bcc46b60be681bd, type: 3}
+  - {fileID: 8300000, guid: 70ee41f4119fcb140b50fa997df1dcb8, type: 3}
+  mixerGroup: {fileID: 243733023663640784, guid: dbc24c10fc1588e498d513eaecd0bfa4,
+    type: 2}
+  volume: 2
+  randomiseVol: 0.05
+  pitch: 0.75
+  randomisePitch: 0.1
+  rangeMin: 1
+  rangeMax: 100
+  omnipresent: 0

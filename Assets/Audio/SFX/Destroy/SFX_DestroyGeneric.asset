@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0ad19ed7df67b46bb79aeb33ab8fb1, type: 3}
+  m_Name: SFX_DestroyGeneric
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: fa7feae7345b9b34bad7c537b1b9ab0c, type: 3}
+  - {fileID: 8300000, guid: 6be96cb12802b04408f5de97c35f6b10, type: 3}
+  - {fileID: 8300000, guid: 3ddcfa3426a2695438b6dfca05ce19ed, type: 3}
+  - {fileID: 8300000, guid: 1d7773e84cbdef64085d89069f5c52d9, type: 3}
+  mixerGroup: {fileID: 243913223663591784, guid: dbc24c10fc1588e498d513eaecd0bfa4,
+    type: 2}
+  volume: 0.2
+  randomiseVol: 0.2
+  pitch: 1
+  randomisePitch: 0.15
+  rangeMin: 2
+  rangeMax: 200
+  omnipresent: 0
