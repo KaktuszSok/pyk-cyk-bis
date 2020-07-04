@@ -41,6 +41,7 @@ public class SFXCollection : ScriptableObject {
         return PlaySoundAtPosition(pos, PickRandomIndex(), volMult, pitchMult, rangeMult);
     }
 
+    //Completely forgot why these two following methods even exists but they play a bunch of sounds at once
     public void PlaySoundSeriesAtPosition(Vector3 pos, float volMult = 1f, float pitchMult = 1f, float rangeMult = 1f, params int[] indices)
     {
         foreach (int index in indices)
